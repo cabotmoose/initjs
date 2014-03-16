@@ -1,24 +1,12 @@
 {
-  "name": "app-name",
+  "name": "SocialDiscount",
   "version": "0.0.1",
-  "author": "Picanteverde <picanteverde@gmail.com>",
+  "author": "Cameron Smith <cabotmoose@gmail.com>",
   "description": "a simple description",
-  "contributors": [
-    {
-      "name": "Alejandro Hernandez",
-      "email": "picanteverde@gmail.com",
-      "web": "http://picanteverde.wordpress.com/"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/picanteverde/init.git"
+    "url": "https://github.com/cabotmoose/initjs.git"
   },
-  "keywords": [
-    "init",
-    "node",
-    "app"
-  ],
   "dependencies": {
     "express": "~3.1.0"
   },
@@ -26,7 +14,6 @@
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.3.0"
   },
-  "license": "MIT",
   "engines": {
     "node": ">=0.6"
   }
